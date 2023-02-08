@@ -17,7 +17,7 @@ A définir
 
 ## Images 
 Exemple de 9 images prisent au même point avec des conditions météorologiques différentes.
-![alt text](data/images_readme/conditions_differentes_9.png)
+![alt text](images_readme/conditions_differentes_9.png)
 
 
 ## Structure des documents
@@ -57,7 +57,7 @@ images:
 
 
 Pour le jeu de données d'images. 8072 points ont été générés sur les routes du Québec. 
-![alt text](data/images_readme/Sampling_points.png)
+![alt text](images_readme/Sampling_points.png)
 
 
 

@@ -3,7 +3,10 @@
 # Guide sur l'installation
 Téléchargement des données.
 Les différentes sources semblaient conseiller de laisser les données RAWS en ligne puis d'avoir des scripts pour télécharger.
-Cela me semble adapter parce que je trouve intéressant de pouvoir télécharger les données dans des arrangements différents (trié par point ou par météo). Sauf si on arrive à faire un package qui garde ces deux informations et permet une séparation facile pour l'utilisateur. 
+Cela me semble adapté pour ne pas avoir un repository trop lourd.
+Un échantillon des données est présent dans "database_presentation"
+
+
 
 ## Preparation
 A définir
@@ -24,6 +27,7 @@ Exemple de 9 images prisent au même point avec des conditions météorologiques
 **Proposition pour les images** \
 Chaque dossier contient les images prisent en un point avec un seul YAML qui contient la position GPS du point de référence,
 le nom de chaque image avec la date et la météo donnée par l'API.
+Un fichier JSON est aussi présent avec les mêmes informations. Les deux formats sont présents en attendant qu'un choix définitif du format soit fait.
 
     .
     ├── pos1

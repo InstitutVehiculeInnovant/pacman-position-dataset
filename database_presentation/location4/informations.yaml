@@ -1,0 +1,187 @@
+location:
+  longitude: -72.79421445664076
+  latitude: 46.546347173087604
+n_images: 30
+n_directions: 1
+camera_informations: null
+images:
+- name: position_trigger_11_17_2022-04_34_45.jpg
+  date: '2022-11-17 09:34:45.665184+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_17_2022-07_26_39.jpg
+  date: '2022-11-17 12:26:39.459189+00:00'
+  weathercode: 1.0
+  meteo: Mainly Clear
+  direction: 0
+  heading: null
+- name: position_trigger_11_18_2022-04_37_54.jpg
+  date: '2022-11-18 09:37:54.277210+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_18_2022-06_34_57.jpg
+  date: '2022-11-18 11:34:57.961675+00:00'
+  weathercode: 1.0
+  meteo: Mainly Clear
+  direction: 0
+  heading: null
+- name: position_trigger_11_18_2022-20_58_06.jpg
+  date: '2022-11-19 01:58:06.959297+00:00'
+  weathercode: 1.0
+  meteo: Mainly Clear
+  direction: 0
+  heading: null
+- name: position_trigger_11_19_2022-04_28_41.jpg
+  date: '2022-11-19 09:28:41.464534+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_19_2022-07_31_04.jpg
+  date: '2022-11-19 12:31:04.266631+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_19_2022-19_17_31.jpg
+  date: '2022-11-20 00:17:31.272300+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_19_2022-21_48_13.jpg
+  date: '2022-11-20 02:48:13.874647+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_19_2022-23_58_22.jpg
+  date: '2022-11-20 04:58:22.363935+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_20_2022-08_47_17.jpg
+  date: '2022-11-20 13:47:17.068350+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_20_2022-13_03_45.jpg
+  date: '2022-11-20 18:03:45.619444+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_20_2022-19_48_27.jpg
+  date: '2022-11-21 00:48:27.169759+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_20_2022-22_08_10.jpg
+  date: '2022-11-21 03:08:10.166473+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_21_2022-04_29_45.jpg
+  date: '2022-11-21 09:29:45.559757+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_21_2022-07_51_15.jpg
+  date: '2022-11-21 12:51:15.751013+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_21_2022-09_45_09.jpg
+  date: '2022-11-21 14:45:09.358610+00:00'
+  weathercode: 2.0
+  meteo: Partly Cloudy
+  direction: 0
+  heading: null
+- name: position_trigger_11_21_2022-20_06_22.jpg
+  date: '2022-11-22 01:06:22.779191+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_22_2022-04_00_36.jpg
+  date: '2022-11-22 09:00:36.666838+00:00'
+  weathercode: 1.0
+  meteo: Mainly Clear
+  direction: 0
+  heading: null
+- name: position_trigger_11_22_2022-19_06_42.jpg
+  date: '2022-11-23 00:06:42.163683+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_28_2022-19_36_12.jpg
+  date: '2022-11-29 00:36:12.769775+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_11_28_2022-22_00_54.jpg
+  date: '2022-11-29 03:00:54.956815+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_29_2022-04_59_06.jpg
+  date: '2022-11-29 09:59:06.460546+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_29_2022-21_43_30.jpg
+  date: '2022-11-30 02:43:30.181799+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_30_2022-03_10_51.jpg
+  date: '2022-11-30 08:10:51.964024+00:00'
+  weathercode: 3.0
+  meteo: Overcast
+  direction: 0
+  heading: null
+- name: position_trigger_11_30_2022-04_54_12.jpg
+  date: '2022-11-30 09:54:12.962867+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_12_12_2022-22_26_31.jpg
+  date: '2022-12-13 03:26:31.865225+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_12_13_2022-03_09_36.jpg
+  date: '2022-12-13 08:09:36.278718+00:00'
+  weathercode: 0.0
+  meteo: Clear Sky
+  direction: 0
+  heading: null
+- name: position_trigger_12_23_2022-07_39_14.jpg
+  date: '2022-12-23 12:39:14.575854+00:00'
+  weathercode: 63.0
+  meteo: Moderate Rain
+  direction: 0
+  heading: null
+- name: position_trigger_12_23_2022-07_50_39.jpg
+  date: '2022-12-23 12:50:39.071533+00:00'
+  weathercode: 63.0
+  meteo: Moderate Rain
+  direction: 0
+  heading: null

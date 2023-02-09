@@ -1,0 +1,491 @@
+{
+  "location": {
+    "longitude": -72.68331306797108,
+    "latitude": 46.63511346710158
+  },
+  "n_images": 60,
+  "n_directions": 2,
+  "camera_informations": null,
+  "images": [
+    {
+      "name": "position_trigger_10_12_2022-02_43_24.jpg",
+      "date": "2022-10-12 06:43:24.556141+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_17_2022-00_56_20.jpg",
+      "date": "2022-11-17 05:56:20.959128+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-07_16_02.jpg",
+      "date": "2022-11-18 12:16:02.257173+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-07_17_43.jpg",
+      "date": "2022-11-18 12:17:43.758705+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-08_49_19.jpg",
+      "date": "2022-11-18 13:49:19.856065+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-10_32_33.jpg",
+      "date": "2022-11-18 15:32:33.266421+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-11_08_12.jpg",
+      "date": "2022-11-18 16:08:12.978965+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-11_29_46.jpg",
+      "date": "2022-11-18 16:29:46.840194+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-11_44_38.jpg",
+      "date": "2022-11-18 16:44:38.879787+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-13_15_31.jpg",
+      "date": "2022-11-18 18:15:31.312435+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-16_13_12.jpg",
+      "date": "2022-11-18 21:13:12.761628+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-03_27_02.jpg",
+      "date": "2022-11-19 08:27:02.545154+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-03_59_35.jpg",
+      "date": "2022-11-19 08:59:35.367252+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-08_11_57.jpg",
+      "date": "2022-11-19 13:11:57.077807+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-13_49_48.jpg",
+      "date": "2022-11-19 18:49:48.451048+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-21_16_04.jpg",
+      "date": "2022-11-20 02:16:04.763177+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-21_22_43.jpg",
+      "date": "2022-11-20 02:22:43.568403+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-08_23_12.jpg",
+      "date": "2022-11-20 13:23:12.661907+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-08_38_45.jpg",
+      "date": "2022-11-20 13:38:45.156425+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-15_17_30.jpg",
+      "date": "2022-11-20 20:17:30.925899+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-15_19_27.jpg",
+      "date": "2022-11-20 20:19:27.913334+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-21_50_59.jpg",
+      "date": "2022-11-21 02:50:59.064629+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-21_53_04.jpg",
+      "date": "2022-11-21 02:53:04.163831+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-23_08_23.jpg",
+      "date": "2022-11-21 04:08:23.754479+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-05_15_33.jpg",
+      "date": "2022-11-21 10:15:33.059111+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-05_17_34.jpg",
+      "date": "2022-11-21 10:17:34.856804+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-07_05_04.jpg",
+      "date": "2022-11-21 12:05:04.244575+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-08_05_06.jpg",
+      "date": "2022-11-21 13:05:06.164681+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-09_32_35.jpg",
+      "date": "2022-11-21 14:32:35.359315+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-21_31_45.jpg",
+      "date": "2022-11-22 02:31:45.481220+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_22_2022-02_08_41.jpg",
+      "date": "2022-11-22 07:08:41.275597+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_22_2022-02_10_42.jpg",
+      "date": "2022-11-22 07:10:42.076581+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_22_2022-07_14_54.jpg",
+      "date": "2022-11-22 12:14:54.564858+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_28_2022-23_30_27.jpg",
+      "date": "2022-11-29 04:30:27.865024+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_28_2022-23_32_13.jpg",
+      "date": "2022-11-29 04:32:13.459089+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_29_2022-03_34_37.jpg",
+      "date": "2022-11-29 08:34:37.880273+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_29_2022-03_36_24.jpg",
+      "date": "2022-11-29 08:36:24.471234+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_11_29_2022-20_13_57.jpg",
+      "date": "2022-11-30 01:13:57.375191+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_12_2022-22_16_49.jpg",
+      "date": "2022-12-13 03:16:49.366435+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_12_2022-22_18_38.jpg",
+      "date": "2022-12-13 03:18:38.963146+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_13_2022-02_59_59.jpg",
+      "date": "2022-12-13 07:59:59.884339+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_13_2022-03_01_45.jpg",
+      "date": "2022-12-13 08:01:45.886223+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_23_2022-09_26_17.jpg",
+      "date": "2022-12-23 14:26:17.667093+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_23_2022-09_48_09.jpg",
+      "date": "2022-12-23 14:48:09.178507+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_23_2022-11_16_23.jpg",
+      "date": "2022-12-23 16:16:23.372364+00:00",
+      "weathercode": 53.0,
+      "meteo": "Moderate Drizzle",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_12_23_2022-17_08_39.jpg",
+      "date": "2022-12-23 22:08:39.971406+00:00",
+      "weathercode": 65.0,
+      "meteo": "Heavy intensity Rain",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_07_2023-08_46_53.jpg",
+      "date": "2023-01-07 13:46:53.770162+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 0,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_07_2023-11_04_44.jpg",
+      "date": "2023-01-07 16:04:44.465925+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_07_2023-16_02_49.jpg",
+      "date": "2023-01-07 21:02:49.636398+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_07_2023-22_09_58.jpg",
+      "date": "2023-01-08 03:09:58.470570+00:00",
+      "weathercode": 2.0,
+      "meteo": "Partly Cloudy",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_08_2023-07_51_32.jpg",
+      "date": "2023-01-08 12:51:32.918226+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_08_2023-10_25_17.jpg",
+      "date": "2023-01-08 15:25:17.072312+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-05_06_45.jpg",
+      "date": "2023-01-09 10:06:45.679899+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-08_16_07.jpg",
+      "date": "2023-01-09 13:16:07.356127+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-09_49_21.jpg",
+      "date": "2023-01-09 14:49:21.457894+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-10_00_41.jpg",
+      "date": "2023-01-09 15:00:41.556240+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-14_49_37.jpg",
+      "date": "2023-01-09 19:49:37.176990+00:00",
+      "weathercode": 53.0,
+      "meteo": "Moderate Drizzle",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-18_54_40.jpg",
+      "date": "2023-01-09 23:54:40.563376+00:00",
+      "weathercode": 53.0,
+      "meteo": "Moderate Drizzle",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_09_2023-21_06_11.jpg",
+      "date": "2023-01-10 02:06:11.875672+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    },
+    {
+      "name": "position_trigger_01_10_2023-07_49_32.jpg",
+      "date": "2023-01-10 12:49:32.362322+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "direction": 1,
+      "heading": null
+    }
+  ]
+}

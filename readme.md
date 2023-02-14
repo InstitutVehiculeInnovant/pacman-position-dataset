@@ -41,7 +41,6 @@ images:
     date: '2022-11-17 09:31:12.661685+00:00'
     weathercode: 51
     meteo: Light Drizzle
-    direction: 0
     heading: null
     camera_informations: null
   - ...

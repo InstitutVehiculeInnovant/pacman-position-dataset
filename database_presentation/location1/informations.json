@@ -1,0 +1,89 @@
+{
+  "location": {
+    "longitude": -72.67447344660275,
+    "latitude": 46.63975957804415
+  },
+  "n_images": 10,
+  "images": [
+    {
+      "name": "position_trigger_11_18_2022-07_17_11.jpg",
+      "date": "2022-11-18 12:17:11.153506+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-11_07_30.jpg",
+      "date": "2022-11-18 16:07:30.679923+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_18_2022-11_43_52.jpg",
+      "date": "2022-11-18 16:43:52.872487+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-08_12_58.jpg",
+      "date": "2022-11-19 13:12:58.080233+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_19_2022-21_21_57.jpg",
+      "date": "2022-11-20 02:21:57.565785+00:00",
+      "weathercode": 3.0,
+      "meteo": "Overcast",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-08_38_09.jpg",
+      "date": "2022-11-20 13:38:09.561644+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-15_18_53.jpg",
+      "date": "2022-11-20 20:18:53.217633+00:00",
+      "weathercode": 51.0,
+      "meteo": "Light Drizzle",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-21_52_22.jpg",
+      "date": "2022-11-21 02:52:22.659148+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_20_2022-23_09_49.jpg",
+      "date": "2022-11-21 04:09:49.066623+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "heading": null,
+      "camera_informations": null
+    },
+    {
+      "name": "position_trigger_11_21_2022-05_16_53.jpg",
+      "date": "2022-11-21 10:16:53.259683+00:00",
+      "weathercode": 0.0,
+      "meteo": "Clear Sky",
+      "heading": null,
+      "camera_informations": null
+    }
+  ]
+}

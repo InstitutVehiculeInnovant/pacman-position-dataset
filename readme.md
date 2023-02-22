@@ -55,12 +55,15 @@ Différents véhicules ont été utilisés pour générer la base de données, c
 }
 ```
 
-*Structure de **camera_calibration.yaml**:*
-```yaml
-calibrations:
-  cam1: null
-  cam2: null
-  ...
+*Structure de **camera_calibration.json**:*
+```json
+{
+"calibrations":[
+  null, // calibration du véhicule 1
+  null
+]
+}
+
 ```
 
 ## Meteo 

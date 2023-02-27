@@ -1,18 +1,13 @@
 # Documentation du jeu de données de position
+IVI Solution présente un jeu de données d'images des routes Québécoises. Ce jeu de données est composé d'images de la roue associée à une position GPS et à une météo.
+Ces données ont été récupérées sur des routes Québécoises par une flotte de véhicules du Ministère du Transport du Québec.
+Cet ensemble de données répertorie X points de passages sur les routes, chacun avec un minimum de Y images. 
+
+
+
 
 # Guide sur l'installation
-Téléchargement des données.
-Les différentes sources semblaient conseiller de laisser les données RAWS en ligne puis d'avoir des scripts pour télécharger.
-Cela me semble adapté pour ne pas avoir un repository trop lourd.
 Un échantillon des données est présent dans "database_presentation"
-
-
-
-## Preparation
-A définir
-
-## "Requirements"
-A définir
 
 
 
@@ -24,53 +19,59 @@ Exemple de 9 images prisent au même point avec des conditions météorologiques
 
 
 ## Structure des documents
-**Proposition pour les images** \
-Chaque dossier contient les images prisent en un point avec un seul YAML qui contient la position GPS du point de référence,
-le nom de chaque image avec la date et la météo donnée par l'API.
-Un fichier JSON est aussi présent avec les mêmes informations. Les deux formats sont présents en attendant qu'un choix définitif du format soit fait.
+Chaque dossier contient les images prisent en un point avec un seul JSON qui contient la position GPS du point de référence, le nom de chaque image avec la date et la météo donnée par l'API (Open-Meteo).
+
+Différents véhicules ont été utilisés pour générer la base de données, ceux-ci ont des calibrations de caméra différentes qui sont spécifiées pour chacun. Chaque image pointe vers une calibration.
+
 
     .
     ├── pos1
     │   ├── img1.jpg
     │   ├── img2.jpg
     │   ├── ...
-    │   └── informations.yaml           
+    │   └── informations.json         
+    ├── camera_calibration.json
     └── ...
 
-*Strucutre d'informations.yaml:*
-```yaml
-location:
-  longitude: -72.75105721420168
-  latitude: 46.57270499758702
-nombre_d_images: 15
-nombre_de_directions: 2 
-camera_informations: null
-images:
-  - name: position_trigger_11_17_2022-04_31_12.jpg
-    date: '2022-11-17 09:31:12.661685+00:00'
-    weathercode: 51
-    meteo: Light Drizzle
-    direction: 0
-    heading: null
-  - ...
+*Strucutre d'**informations.json**:*
+```json
+{
+  "location": {
+    "longitude": -72.68331306797108,
+    "latitude": 46.63511346710158
+  },
+  "n_images": 10,
+  "images": [
+    {
+      "name": "position_trigger_11_18_2022-07_17_43.jpg",
+      "date": "2022-11-18 12:17:43.758705+00:00",
+      "weathercode": 1.0,
+      "meteo": "Mainly Clear",
+      "heading": null,
+      "camera_informations": null
+    },
+    {"...":"..."} 
+  ]
+}
 ```
 
+*Structure de **camera_calibration.json**:*
+```json
+{
+"calibrations":[
+  null, // calibration du véhicule 1
+  null
+]
+}
+
+```
+
+## Meteo 
+Chaque image contient "weathercode" et "meteo", ces deux informations sont redondantes. "weathercode" est le code de la météo donné par l'API (Open-Meteo) et "meteo" est la signification du code.
 
 
 ## Génération des données
-
-
-Pour le jeu de données d'images. 8072 points ont été générés sur les routes du Québec. 
+8072 points ont été générés sur les routes du Québec. 
 ![alt text](images_readme/Sampling_points.png)
-
-
-
-# License
-
-# Citations
-
-# Travail additionnel
-(si on veut citer les autres travaux de IVIS)
-
 
 

@@ -47,8 +47,7 @@ Différents véhicules ont été utilisés pour générer la base de données, c
       "date": "2022-11-18 12:17:43.758705+00:00",
       "weathercode": 1.0,
       "meteo": "Mainly Clear",
-      "heading": null,
-      "camera_informations": null
+      // "camera_informations": null
     },
     {"...":"..."} 
   ]

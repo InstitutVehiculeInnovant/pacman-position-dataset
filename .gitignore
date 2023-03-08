@@ -49,4 +49,9 @@ Thumbs.db
 *.wmv
 
 
+database_presentation/*
+!database_presentation/location0
+!database_presentation/location1
+
+
 

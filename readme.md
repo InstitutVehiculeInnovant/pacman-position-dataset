@@ -1,15 +1,8 @@
 # Documentation du jeu de données de position
-IVI Solution présente un jeu de données d'images des routes Québécoises. Ce jeu de données est composé d'images de la roue associée à une position GPS et à une météo.
-Ces données ont été récupérées sur des routes Québécoises par une flotte de véhicules du Ministère du Transport du Québec.
-Cet ensemble de données répertorie X points de passages sur les routes, chacun avec un minimum de Y images. 
-
-
 
 
 # Guide sur l'installation
 Un échantillon des données est présent dans "database_presentation"
-
-
 
 # Description des données
 

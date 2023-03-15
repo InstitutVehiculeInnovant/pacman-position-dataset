@@ -41,8 +41,7 @@ Chaque dossier contient les images prisent en un point avec un seul JSON qui con
       "name": "position_trigger_11_18_2022-07_17_43.jpg",
       "date": "2022-11-18 12:17:43.758705+00:00",
       "weathercode": 1.0,
-      "meteo": "Mainly Clear",
-      // "camera_informations": null
+      "meteo": "Mainly Clear"
     },
     {"...":"..."} 
   ]
@@ -85,8 +84,11 @@ Chaque image contient "weathercode" et "meteo", ces deux informations sont redon
 | 96 | Thunderstorm With Slight | Orage avec légère pluie |
 | 99 | Thunderstorm With Heavy Hail | Orage avec fortes chutes de grêle |
 
+## Calibration de la caméra
+Le fichier "camera_calibration.json" contient les paramètres de calibration de la caméra utilisée pour prendre les images.
 
-## Génération des données
+
+# Génération des données
 8072 points ont été générés sur les routes du Québec à l'aide d'un script python et des données sur routes fournies par le MTQ (disponibles à l'adresse suivante: https://www.donneesquebec.ca/recherche/dataset/reseau-routier-rtss) 
 ![alt text](images_readme/Sampling_points.png)
 
@@ -98,3 +100,8 @@ Lorsqu'un véhicule passe par un des points de passage, il prend une photo qui e
 Enfin le jeu de données est fabriqué en associant les images à leur point de passage et en ajoutant les informations de météo dans un fichier JSON.
 
 
+# Améliorations possibles
+* Séparation d'un même point de passage en fonction des différentes bandes de la route
+* Vérification visuelle des images pour retire des images qui seraient vraiment mauvaises (vision de la caméra obstruée, prise de la photo trop loin du point de passage, etc...)
+* Validation de la météo par un humain
+* Anonymisation du dataset exporté

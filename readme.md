@@ -47,19 +47,39 @@ Différents véhicules ont été utilisés pour générer la base de données, c
 }
 ```
 
-*Structure de **camera_calibration.json**:*
-```json
-{
-"calibrations":[
-  null, // calibration du véhicule 1
-  null
-]
-}
-
-```
-
 ## Meteo 
 Chaque image contient "weathercode" et "meteo", ces deux informations sont redondantes. "weathercode" est le code de la météo donné par l'API (Open-Meteo) et "meteo" est la signification du code.
+
+| Code | Condition | Traduction française |
+| --- | --- | --- |
+| 0 | Clear Sky | Ciel dégagé |
+| 1 | Mainly Clear | Principalement dégagé |
+| 2 | Partly Cloudy | Partiellement nuageux |
+| 3 | Overcast | Couvert |
+| 45 | Fog | Brouillard |
+| 48 | Depositing Rime Fog | Brouillard givrant |
+| 51 | Light Drizzle | Légère bruine |
+| 53 | Moderate Drizzle | Bruine modérée |
+| 55 | Dense Intensity Drizzle | Bruine forte |
+| 56 | Light Freezing Drizzle | Légère bruine verglaçante |
+| 57 | Dense Intensity Freezing Drizzle | Bruine verglaçante forte |
+| 61 | Slight Rain | Pluie légère |
+| 63 | Moderate Rain | Pluie modérée |
+| 65 | Heavy intensity Rain | Pluie forte |
+| 66 | Light Freezing Rain | Légère pluie verglaçante |
+| 67 | Heavy Intensity Freezing Rain | Pluie verglaçante forte |
+| 71 | Slight Snow fall | Légère chute de neige |
+| 73 | Moderate Snow fall | Chute de neige modérée |
+| 75 | Heavy Intensity Snow fall | Chute de neige forte |
+| 77 | Snow Grains | Grains de neige |
+| 80 | Slight Rain Showers | Légères averses de pluie |
+| 81 | Moderate Rain Showers | Averses de pluie modérées |
+| 82 | Violent Rain Showers | Averses de pluie violentes |
+| 85 | Slight Snow Showers | Légères averses de neige |
+| 86 | Heavy Snow Showers | Averses de neige fortes |
+| 95 | Thunderstorm | Orage |
+| 96 | Thunderstorm With Slight | Orage avec légère pluie |
+| 99 | Thunderstorm With Heavy Hail | Orage avec fortes chutes de grêle |
 
 
 ## Génération des données
